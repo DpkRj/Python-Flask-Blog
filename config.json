@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/coadingwiththunder",
+    "prod_uri":"mysql://root:@localhost/coadingwiththunder",
+    "fb_url":"https://facebook.com/coadingwiththunder",
+    "tw_url":"https://twitter.com/coadingwiththunder",
+    "gh_url": "https://github.com/coadingwiththunder",
+    "blog_name": "Social Webpage",
+    "tag_line": "Heaven for learner",
+    "gmail-user":"your-email@gmail.com",
+    "gmail-password":"gmailpassword",
+    "about_text": "Hi my name is Deepak and I am created this blog. I am 22 year's old.",
+    "no_of_posts": 3,
+    "login_image":"blog.jpg",
+    "admin_user":"dpk",
+    "admin_password": "121003",
+    "upload_location":"C:\\Users\\Haris\\PycharmProjects\\Flask-tut\\static"
+
+
+  }
+
+}
